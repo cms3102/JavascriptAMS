@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+.currency{
+  float: right;
+}
+td:nth-child(1) {
+  text-align: center;
+}
+.info td {
+  text-align: left;
+}
+.info{
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100%
+}
+.info th {
+  border-right: 1px solid black;
+}
+.table1{
+  border: 1px solid black;
+  border-collapse: collapse;
+  font: 12px "고딕";
+  margin: auto;
+}
+.unit {
+  border-top: 1px solid gray;
+  width: 100%
+}
+.acclist {
+  float: left;
+}
+input {
+  font: 12px "고딕";
+}
+select {
+  font: 12px "고딕";
+}
+label {
+  font-weight: bold;
+}
+#result td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
